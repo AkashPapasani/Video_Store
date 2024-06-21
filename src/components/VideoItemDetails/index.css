@@ -1,0 +1,22 @@
+.react-player {
+  height: 10vh;
+}
+
+.LikeShareBtnContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.VideoDetailsItemProfileImg {
+  height: 7vh;
+  margin-right: 10px;
+}
+
+.VDChannelName {
+  margin-top: 0px;
+}
+
+.BtnText {
+  margin-left: 10px;
+}

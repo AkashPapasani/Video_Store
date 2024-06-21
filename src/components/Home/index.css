@@ -1,0 +1,72 @@
+.banner-logo {
+  height: 4vh;
+}
+
+.BannerContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+  height: 25vh;
+}
+
+.BannerPara {
+  font-size: 20px;
+}
+
+.GetItNowBtn {
+  background-color: transparent;
+  padding: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.CloseBtn {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+
+.HomeVideosContainer {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.HomePageContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 60px;
+}
+
+.NoSearchResultsContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  margin-left: auto;
+}
+
+.NoSearchResultsImg {
+  height: 40vh;
+  margin-bottom: 20px;
+}
+
+.RetryBtn {
+  color: white;
+  background-color: #4f46e5;
+  width: 90px;
+  height: 35px;
+  border-width: 0px;
+  cursor: pointer;
+}
+
+.linkItem {
+  text-decoration: none;
+}
